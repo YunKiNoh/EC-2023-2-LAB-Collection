@@ -12,6 +12,7 @@
 - **LAB8**: USART 통신
 - **LAB9**: DC morot, IR sensor, UltarSonic sensor를 통하여 자동차가 선 따라서 자율주행하도록 구현
 - **LAB10**: Final Team Project, 초동 화재 진압 시스템 구축
+- **Lib**: 라이브러리 폴더로써, 총 20개의 개별 라이브러리 코드 파일(ecSTM32F411.h 이외의 20개 파일)과 1개의 선언 파일(ecSTM32F411.h)이 있음
 
 # EC_Lib_Documentation
 

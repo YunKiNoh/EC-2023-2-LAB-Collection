@@ -2,11 +2,12 @@
 
 본 레포지토리는 2023년도 2학기에 수강한 Embeded Controller(EC)의 학업 결과를 정리하기 위하여 작성되었습니다. 본 강의는 MCU(Micro Controller Unit)에 대하여 배우며, Arduino 보드로 MCU에 대한 기초를 익히고 곧바로 stm 보드로 실험 과제를 수행해 갑니다. 총 9개의 실험과 1개의 파이널 팀 프로젝트를 진행하였으며, 팀 프로젝트에서는 지난 과제들을 바탕으로 직접 프로젝트 주제를 선정하였습니다. 각각의 LAB과 프로젝트 대한 정보(보고서, 소스코드)는 상단 폴더에 정리하였으며, 본 메인문에서는 본 실험들에 쓰인 라이브러리 코드들에 대한 핵심 정보를 정리 및 기제하였습니다.
 
+## LAB Environment
 - **IDE/Compiler**: Keil uVision 5
 - **System**: Window 10/11
 - **MCU Board**: STM32F411RE, Nucleo-64
 
-
+## LAB Information
 - **LAB1**: trigger signal을 통해 mini fan의 DC motor 구동
 - **LAB2**: trigger signal을 통해 led 점등 및 소등
 - **LAB3**: 7-segment decoder를 통해 0부터 9까지의 숫자 표현

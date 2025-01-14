@@ -4,7 +4,14 @@
 
 - LAB1: trigger signal을 통해 mini fan의 DC motor 구동
 - LAB2: trigger signal을 통해 led 점등 및 소등
-- LAB3: 7-segment decoder를 통해 
+- LAB3: 7-segment decoder를 통해 0부터 9까지의 숫자 표현
+- LAB4: timer를 통해 trigger signal을 생성하여 rc servo motor 구동
+- LAB5: systick 타이머를 통해 단위시간마다 숫자를 0부터 9까지 변환
+- LAB6: pwm 신호를 통해 초음파 센서로부터 물체와의 거리 값 계산
+- LAB7: pwm 신호를 통해 stepper motor 구동
+- LAB8: USART 통신
+- LAB9: DC morot, IR sensor, UltarSonic sensor를 통하여 자동차가 선 따라서 자율주행하도록 구현
+- LAB10: Final Team Project으로써 RC morot, A초동 화재 진압 시스템
 
 # EC_Lib_Documentation
 

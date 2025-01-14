@@ -11,7 +11,7 @@
 - LAB7: pwm 신호를 통해 stepper motor 구동
 - LAB8: USART 통신
 - LAB9: DC morot, IR sensor, UltarSonic sensor를 통하여 자동차가 선 따라서 자율주행하도록 구현
-- LAB10: Final Team Project으로써 RC morot, A초동 화재 진압 시스템
+- LAB10: Final Team Project, 초동 화재 진압 시스템 구축
 
 # EC_Lib_Documentation
 

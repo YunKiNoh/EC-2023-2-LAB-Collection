@@ -6,6 +6,7 @@
 - **System**: Window 10/11
 - **MCU Board**: STM32F411RE, Nucleo-64
 
+
 - **LAB1**: trigger signal을 통해 mini fan의 DC motor 구동
 - **LAB2**: trigger signal을 통해 led 점등 및 소등
 - **LAB3**: 7-segment decoder를 통해 0부터 9까지의 숫자 표현
